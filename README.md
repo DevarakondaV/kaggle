@@ -1,2 +1,2 @@
 # kaggle
-Contains projects from kaggle that i've worked on
+This repo contains projects from kaggle that I've worked on or am currently working on.
